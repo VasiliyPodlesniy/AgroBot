@@ -12,4 +12,4 @@
 -дистанционное управление с джойстика;
 -генерация звука на динамик.
 
-![Image alt](https://github.com/VasiliyPodlesniy/PhotoForRepositories/AgrobotPhoto.JPG)
+![demo image](https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/AgrobotPhoto.JPG)
